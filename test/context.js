@@ -4,7 +4,7 @@
   const test = require('tape')
   const s = require('vigour-state/s')
   const p = require('parse-element')
-  const isNode = require('vigour-util/is/node')
+  const isNode = require('is-node')
 
   test('context - static and state', function (t) {
     const state = s({

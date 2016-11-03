@@ -29,9 +29,10 @@
   ],
   "dependencies": {
     "brisky-core": "^1.4.1",
-    "vigour-ua": "^2.0.3",
-    "vigour-util": "^3.0.0",
-    "bubleify": "0.5.1"
+    "bubleify": "0.5.1",
+    "is-node": "^1.0.2",
+    "is-number-like": "^1.0.3",
+    "vigour-ua": "^2.0.3"
   },
   "devDependencies": {
     "ducktape": "^1.0.0",
